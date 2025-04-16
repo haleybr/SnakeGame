@@ -14,3 +14,5 @@ welcome to my snake game!
 
   Game Demo Video : https://www.youtube.com/watch?v=DifiR085NVM 
 
+  Presentation Link : https://docs.google.com/presentation/d/1w8B78Ra5u67fW-echQD9Q5P5csvjy6IcfxXl8eMySgE/edit?usp=sharing 
+
