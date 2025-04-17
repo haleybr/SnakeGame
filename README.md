@@ -18,3 +18,5 @@ welcome to my snake game!
 
   Implementation Manual : https://docs.google.com/document/d/1yZbYRanYqQCQD5nVCcZxxUDx0jTBo4MwKvUdP6oIOZQ/edit?tab=t.0 
 
+  User Manual : https://docs.google.com/document/d/1wC1bnb7lWxTa7mkRit_CbnCpvdAEyyT6J-CDQFTKqQM/edit?tab=t.0 
+
