@@ -16,3 +16,5 @@ welcome to my snake game!
 
   Presentation Link : https://docs.google.com/presentation/d/1w8B78Ra5u67fW-echQD9Q5P5csvjy6IcfxXl8eMySgE/edit?usp=sharing 
 
+  Implementation Manual : https://docs.google.com/document/d/1yZbYRanYqQCQD5nVCcZxxUDx0jTBo4MwKvUdP6oIOZQ/edit?tab=t.0 
+
